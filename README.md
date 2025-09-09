@@ -48,7 +48,29 @@ https://github.com/user-attachments/assets/6e4dcc06-39e4-485f-a3e2-b3c2666e376a
 3.  Input a numerical key (1-25).
 4.  Click 'Encrypt' or 'Decrypt' to process the text.
 
-## 📸 Screenshot
+## 📸 Screenshots
+<img width="1907" height="1039" alt="image" src="https://github.com/user-attachments/assets/28dd15ef-2b44-4cff-8049-f966ec65944e" />
+
+<img width="1919" height="1043" alt="image" src="https://github.com/user-attachments/assets/32ad96b7-0744-43f3-abc9-90466fa6dfb6" />
+
+<img width="1919" height="1046" alt="image" src="https://github.com/user-attachments/assets/02acd4e3-f63b-444a-b8d4-ab5a97649791" />
+
+<img width="1919" height="1047" alt="image" src="https://github.com/user-attachments/assets/0b7bda84-05ff-47de-92df-1aa1bdb61f38" />
+
+<img width="1919" height="1046" alt="image" src="https://github.com/user-attachments/assets/8c1a2bbf-b9f6-44c0-af8b-496d02f2b7c6" />
+
+<img width="1919" height="1043" alt="image" src="https://github.com/user-attachments/assets/bb860777-3d27-4ab8-b62f-485151f4a3d6" />
+
+<img width="1919" height="1044" alt="image" src="https://github.com/user-attachments/assets/42011624-257e-4b02-9be7-19bc28a0b5e0" />
+
+<img width="1919" height="1042" alt="image" src="https://github.com/user-attachments/assets/0d407dc6-45af-4679-80fe-0fb87cb41b52" />
+
+<img width="1919" height="1043" alt="image" src="https://github.com/user-attachments/assets/8369a149-163e-4efd-a4a8-aab45c6ce139" />
+
+<img width="1919" height="1044" alt="image" src="https://github.com/user-attachments/assets/d6ebcfb4-365d-4dc2-a6fe-67b930d8a473" />
+
+<img width="1919" height="1043" alt="image" src="https://github.com/user-attachments/assets/09ef9320-c04e-43da-93b6-90d4f6fa3d4c" />
+
 
 
 ## 📖 Contributing
