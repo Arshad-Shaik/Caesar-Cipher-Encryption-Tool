@@ -102,7 +102,7 @@ This application implements this algorithm, handling both uppercase and lowercas
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
+Contributions, issues, and feature requests are welcome! Feel free.
 
 ## 📜 License
 
