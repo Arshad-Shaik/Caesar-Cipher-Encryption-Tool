@@ -75,7 +75,7 @@ https://github.com/user-attachments/assets/6e4dcc06-39e4-485f-a3e2-b3c2666e376a
 
 <img width="1919" height="1043" alt="image" src="https://github.com/user-attachments/assets/09ef9320-c04e-43da-93b6-90d4f6fa3d4c" />
 
-## Code Explanation
+## 🎯 Code Explanation
 A secure and user-friendly **Python GUI application** built with **Tkinter** for performing encryption and decryption using the classical **Caesar Cipher algorithm**. This project demonstrates core software engineering principles, including GUI development, algorithm implementation, multi-threading, and secure input validation.
 
 ## 🚀 Situation-Task-Action-Result (STAR Method)
@@ -100,7 +100,7 @@ The Caesar Cipher is a **substitution cipher** where each letter in the plaintex
 This application implements this algorithm, handling both uppercase and lowercase letters while ignoring non-alphabetic characters to preserve formatting.
 
 
-## 📖 Contributing
+## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
