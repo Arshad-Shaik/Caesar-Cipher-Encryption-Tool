@@ -3,7 +3,7 @@ A secure and user-friendly desktop application built with Python and Tkinter for
 
 ## This project created by Arshad Wasib Shaik
 
-### Execution Proof
+## 🎥 Execution Proof
 
 https://github.com/user-attachments/assets/6e4dcc06-39e4-485f-a3e2-b3c2666e376a
 
